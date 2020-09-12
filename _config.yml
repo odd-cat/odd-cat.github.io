@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: Odd-cat's Blog
+name: odd-cat
+description: odd but not a cat
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/odd-cat
 rss: true
 
 plugins:
@@ -36,6 +36,3 @@ exclude:
   - Gemfile.lock
 
 theme: jekyll-theme-minimalism
-
-
-remote_theme: showzeng/Minimalism

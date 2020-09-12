@@ -4,11 +4,11 @@ title: 关于
 reward: false
 ---
 
-### Minimalism
+### This blog
 
 ---
 
-[Minimalism] 是一款基于 [Jekyll] 为极简主义者打造的极简主题。
+[Odd-cat's Blog] 是[怪猫]的个人博客站点
 
-[Minimalism]: https://github.com/showzeng/Minimalism
+[Github]: https://github.com/odd-cat
 [Jekyll]: https://jekyllrb.com/
